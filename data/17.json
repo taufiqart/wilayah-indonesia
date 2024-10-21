@@ -1,0 +1,72 @@
+{
+  "1701": {
+    "parent": "17",
+    "bps_code": "1701",
+    "dagri_code": "17.01",
+    "text": "KAB. BENGKULU SELATAN",
+    "postal_codes": ["38500"]
+  },
+  "1702": {
+    "parent": "17",
+    "bps_code": "1702",
+    "dagri_code": "17.02",
+    "text": "KAB. REJANG LEBONG",
+    "postal_codes": ["39100"]
+  },
+  "1703": {
+    "parent": "17",
+    "bps_code": "1703",
+    "dagri_code": "17.03",
+    "text": "KAB. BENGKULU UTARA",
+    "postal_codes": ["38600"]
+  },
+  "1704": {
+    "parent": "17",
+    "bps_code": "1704",
+    "dagri_code": "17.04",
+    "text": "KAB. KAUR",
+    "postal_codes": ["38900"]
+  },
+  "1705": {
+    "parent": "17",
+    "bps_code": "1705",
+    "dagri_code": "17.05",
+    "text": "KAB. SELUMA",
+    "postal_codes": ["38800"]
+  },
+  "1706": {
+    "parent": "17",
+    "bps_code": "1706",
+    "dagri_code": "17.06",
+    "text": "KAB. MUKO MUKO",
+    "postal_codes": ["38700"]
+  },
+  "1707": {
+    "parent": "17",
+    "bps_code": "1707",
+    "dagri_code": "17.07",
+    "text": "KAB. LEBONG",
+    "postal_codes": ["39200"]
+  },
+  "1708": {
+    "parent": "17",
+    "bps_code": "1708",
+    "dagri_code": "17.08",
+    "text": "KAB. KEPAHIANG",
+    "postal_codes": ["39100", "39300"]
+  },
+  "1709": {
+    "parent": "17",
+    "bps_code": "1709",
+    "dagri_code": "17.09",
+    "text": "KAB. BENGKULU TENGAH",
+    "postal_codes": ["38300"]
+  },
+  "1771": {
+    "parent": "17",
+    "bps_code": "1771",
+    "dagri_code": "17.71",
+    "text": "KOTA BENGKULU",
+    "postal_codes": ["38100", "38200"]
+  }
+}

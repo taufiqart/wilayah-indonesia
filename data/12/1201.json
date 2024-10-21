@@ -1,0 +1,72 @@
+{
+  "1201060": {
+    "parent": "1201",
+    "bps_code": "1201060",
+    "dagri_code": "12.04.10",
+    "text": "IDANOGAWO",
+    "postal_codes": []
+  },
+  "1201061": {
+    "parent": "1201",
+    "bps_code": "1201061",
+    "dagri_code": "12.04.11",
+    "text": "BAWOLATO",
+    "postal_codes": ["22876", "22873"]
+  },
+  "1201062": {
+    "parent": "1201",
+    "bps_code": "1201062",
+    "dagri_code": "12.04.27",
+    "text": "ULUGAWO",
+    "postal_codes": ["22876", "22877"]
+  },
+  "1201070": {
+    "parent": "1201",
+    "bps_code": "1201070",
+    "dagri_code": "12.04.06",
+    "text": "GIDO",
+    "postal_codes": ["22871", "22874"]
+  },
+  "1201071": {
+    "parent": "1201",
+    "bps_code": "1201071",
+    "dagri_code": "12.04.35",
+    "text": "SOGAE'ADU",
+    "postal_codes": []
+  },
+  "1201081": {
+    "parent": "1201",
+    "bps_code": "1201081",
+    "dagri_code": "12.04.28",
+    "text": "MA'U",
+    "postal_codes": []
+  },
+  "1201082": {
+    "parent": "1201",
+    "bps_code": "1201082",
+    "dagri_code": "12.04.29",
+    "text": "SOMOLO-MOLO",
+    "postal_codes": ["22878"]
+  },
+  "1201130": {
+    "parent": "1201",
+    "bps_code": "1201130",
+    "dagri_code": "12.04.05",
+    "text": "HILIDUHO",
+    "postal_codes": ["22854", "22853", "22852"]
+  },
+  "1201131": {
+    "parent": "1201",
+    "bps_code": "1201131",
+    "dagri_code": "12.04.20",
+    "text": "HILISERANGKAI",
+    "postal_codes": []
+  },
+  "1201132": {
+    "parent": "1201",
+    "bps_code": "1201132",
+    "dagri_code": "12.04.21",
+    "text": "BOTOMUZOI",
+    "postal_codes": ["22859", "22855"]
+  }
+}

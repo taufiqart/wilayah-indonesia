@@ -1,0 +1,240 @@
+{
+  "11": {
+    "parent": "0",
+    "bps_code": "11",
+    "dagri_code": "11",
+    "text": "ACEH",
+    "postal_codes": ["20000"]
+  },
+  "12": {
+    "parent": "0",
+    "bps_code": "12",
+    "dagri_code": "12",
+    "text": "SUMATERA UTARA",
+    "postal_codes": ["20000"]
+  },
+  "13": {
+    "parent": "0",
+    "bps_code": "13",
+    "dagri_code": "13",
+    "text": "SUMATERA BARAT",
+    "postal_codes": ["20000"]
+  },
+  "14": {
+    "parent": "0",
+    "bps_code": "14",
+    "dagri_code": "14",
+    "text": "RIAU",
+    "postal_codes": ["20000"]
+  },
+  "15": {
+    "parent": "0",
+    "bps_code": "15",
+    "dagri_code": "15",
+    "text": "JAMBI",
+    "postal_codes": ["30000"]
+  },
+  "16": {
+    "parent": "0",
+    "bps_code": "16",
+    "dagri_code": "16",
+    "text": "SUMATERA SELATAN",
+    "postal_codes": ["30000"]
+  },
+  "17": {
+    "parent": "0",
+    "bps_code": "17",
+    "dagri_code": "17",
+    "text": "BENGKULU",
+    "postal_codes": ["30000"]
+  },
+  "18": {
+    "parent": "0",
+    "bps_code": "18",
+    "dagri_code": "18",
+    "text": "LAMPUNG",
+    "postal_codes": ["30000"]
+  },
+  "19": {
+    "parent": "0",
+    "bps_code": "19",
+    "dagri_code": "19",
+    "text": "KEP. BANGKA BELITUNG",
+    "postal_codes": ["30000"]
+  },
+  "21": {
+    "parent": "0",
+    "bps_code": "21",
+    "dagri_code": "21",
+    "text": "KEP. RIAU",
+    "postal_codes": ["20000"]
+  },
+  "31": {
+    "parent": "0",
+    "bps_code": "31",
+    "dagri_code": "31",
+    "text": "DKI JAKARTA",
+    "postal_codes": ["10000"]
+  },
+  "32": {
+    "parent": "0",
+    "bps_code": "32",
+    "dagri_code": "32",
+    "text": "JAWA BARAT",
+    "postal_codes": ["10000", "40000"]
+  },
+  "33": {
+    "parent": "0",
+    "bps_code": "33",
+    "dagri_code": "33",
+    "text": "JAWA TENGAH",
+    "postal_codes": ["50000"]
+  },
+  "34": {
+    "parent": "0",
+    "bps_code": "34",
+    "dagri_code": "34",
+    "text": "DI YOGYAKARTA",
+    "postal_codes": ["50000"]
+  },
+  "35": {
+    "parent": "0",
+    "bps_code": "35",
+    "dagri_code": "35",
+    "text": "JAWA TIMUR",
+    "postal_codes": ["60000"]
+  },
+  "36": {
+    "parent": "0",
+    "bps_code": "36",
+    "dagri_code": "36",
+    "text": "BANTEN",
+    "postal_codes": ["10000", "40000"]
+  },
+  "51": {
+    "parent": "0",
+    "bps_code": "51",
+    "dagri_code": "51",
+    "text": "BALI",
+    "postal_codes": ["80000"]
+  },
+  "52": {
+    "parent": "0",
+    "bps_code": "52",
+    "dagri_code": "52",
+    "text": "NUSA TENGGARA BARAT",
+    "postal_codes": ["80000"]
+  },
+  "53": {
+    "parent": "0",
+    "bps_code": "53",
+    "dagri_code": "53",
+    "text": "NUSA TENGGARA TIMUR",
+    "postal_codes": ["80000"]
+  },
+  "61": {
+    "parent": "0",
+    "bps_code": "61",
+    "dagri_code": "61",
+    "text": "KALIMANTAN BARAT",
+    "postal_codes": ["70000"]
+  },
+  "62": {
+    "parent": "0",
+    "bps_code": "62",
+    "dagri_code": "62",
+    "text": "KALIMANTAN TENGAH",
+    "postal_codes": ["70000"]
+  },
+  "63": {
+    "parent": "0",
+    "bps_code": "63",
+    "dagri_code": "63",
+    "text": "KALIMANTAN SELATAN",
+    "postal_codes": ["70000"]
+  },
+  "64": {
+    "parent": "0",
+    "bps_code": "64",
+    "dagri_code": "64",
+    "text": "KALIMANTAN TIMUR",
+    "postal_codes": ["70000"]
+  },
+  "65": {
+    "parent": "0",
+    "bps_code": "65",
+    "dagri_code": "65",
+    "text": "KALIMANTAN UTARA",
+    "postal_codes": ["70000"]
+  },
+  "71": {
+    "parent": "0",
+    "bps_code": "71",
+    "dagri_code": "71",
+    "text": "SULAWESI UTARA",
+    "postal_codes": ["90000"]
+  },
+  "72": {
+    "parent": "0",
+    "bps_code": "72",
+    "dagri_code": "72",
+    "text": "SULAWESI TENGAH",
+    "postal_codes": ["90000"]
+  },
+  "73": {
+    "parent": "0",
+    "bps_code": "73",
+    "dagri_code": "73",
+    "text": "SULAWESI SELATAN",
+    "postal_codes": ["90000"]
+  },
+  "74": {
+    "parent": "0",
+    "bps_code": "74",
+    "dagri_code": "74",
+    "text": "SULAWESI TENGGARA",
+    "postal_codes": ["90000"]
+  },
+  "75": {
+    "parent": "0",
+    "bps_code": "75",
+    "dagri_code": "75",
+    "text": "GORONTALO",
+    "postal_codes": ["90000"]
+  },
+  "76": {
+    "parent": "0",
+    "bps_code": "76",
+    "dagri_code": "76",
+    "text": "SULAWESI BARAT",
+    "postal_codes": ["90000"]
+  },
+  "81": {
+    "parent": "0",
+    "bps_code": "81",
+    "dagri_code": "81",
+    "text": "MALUKU",
+    "postal_codes": ["90000"]
+  },
+  "82": {
+    "parent": "0",
+    "bps_code": "82",
+    "dagri_code": "82",
+    "text": "MALUKU UTARA",
+    "postal_codes": ["90000"]
+  },
+  "91": {
+    "parent": "0",
+    "bps_code": "91",
+    "dagri_code": "92",
+    "text": "PAPUA BARAT",
+    "postal_codes": ["90000"]
+  },
+  "94": {
+    "parent": "0",
+    "bps_code": "94",
+    "dagri_code": "91",
+    "text": "PAPUA",
+    "postal_codes": ["90000"]
+  }
+}
