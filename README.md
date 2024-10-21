@@ -39,4 +39,4 @@ Original data from [BPS](https://sig.bps.go.id/bridging-kode/index)
 [Get all sub district example 1103010 (TRUMON)](https://taufiqart.github.io/wilayah-indonesia/data/11/1103/1103010.json)
 `/data/[kode_province]/[city]/[district].json`
 
-##### [GITHUB TAUFIQART](https://github.com/taufiqart)
+##### [![TAUFIQART](https://github.githubassets.com/favicons/favicon-dark.svg)](https://github.com/taufiqart)
