@@ -15,3 +15,17 @@ bun run index.ts
 Original data from [BPS](https://sig.bps.go.id/bridging-kode/index)
 
 Include kode pos
+
+### How to use
+
+[Get all province](https://taufiqart.github.io/wilayah-indonesia/data/province.json)
+`/data/province.json`
+
+[Get all city example 11 (ACEH)](https://taufiqart.github.io/wilayah-indonesia/data/11.json)
+`/data/[kode_province].json`
+
+[Get all district example 1103 (ACEH SELATAN)](https://taufiqart.github.io/wilayah-indonesia/data/11/1103.json)
+`/data/[kode_province]/[city].json`
+
+[Get all sub district example 1103010 (TRUMON)](https://taufiqart.github.io/wilayah-indonesia/data/11/1103/1103010.json)
+`/data/[kode_province]/[city]/[district].json`
